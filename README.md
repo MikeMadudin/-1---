@@ -4,7 +4,7 @@
   
 Сертификаты Нетологии:  
 - [Итоговый сертификат об обучении](https://github.com/MikeMadudin/MikeMadudin/blob/main/certificate_ONEC_dev_final.pdf)
-- [Среда разработки и конфигурация]()
+- [Среда разработки и конфигурация](https://github.com/MikeMadudin/MikeMadudin/raw/main/certificate_%D0%A1%D1%80%D0%B5%D0%B4%D0%B0_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8_%D0%B8_%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D1%8F.pdf)
 - [Встроенный язык]()
 - [Интерфейс]()
 - [Справочники и регистры сведений]()

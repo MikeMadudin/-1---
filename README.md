@@ -1,4 +1,4 @@
-### 👋 Hi all!  
+### 👋 Всем привет!  
 Меня зовут Михаил Мадудин, я 1С-программист.  
 В 2022 закончил обучение в Нетологии по профессии 1С-разработчик (диплом о профессиональной переподготовке). 
   
@@ -18,3 +18,7 @@
 - [Механизмы учета](https://github.com/MikeMadudin/MikeMadudin/blob/main/certificate_accounting_mechanisms.pdf)
 - [Механизмы расчета](https://github.com/MikeMadudin/MikeMadudin/blob/main/certificate_calculation_mechanisms.pdf)
 - [Бизнес-процессы и задачи](https://github.com/MikeMadudin/MikeMadudin/blob/main/certificate_business_processes_and_tasks.pdf)
+  
+  
+    
+  ![](https://komarev.com/ghpvc/?username=MikeMadudin)
